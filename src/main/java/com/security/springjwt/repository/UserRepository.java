@@ -1,5 +1,6 @@
 package com.security.springjwt.repository;
 
+
 import com.security.springjwt.entity.UserEntity;
 import org.springframework.data.jpa.repository.JpaRepository;
 
